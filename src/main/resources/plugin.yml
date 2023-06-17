@@ -1,0 +1,7 @@
+name: EternalAltar
+version: ${project.version}
+author: EliteMasterEric
+depend: [Slimefun]
+
+main: com.elitemastereric.slimefun.eternalaltar.EternalAltarPlugin
+api-version: 1.16
